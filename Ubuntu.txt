@@ -1,0 +1,4 @@
+Permissions in ubuntu :
+sudo chmod -R 777 /var/www
+--------------------------------------------------
+
